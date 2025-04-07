@@ -651,6 +651,10 @@ progress {
     background: linear-gradient(to bottom, rgb(0 0 0 / 0%) 0%, rgb(0 0 0 / 27%) 75%, #153345 100%), url(../assets/img/portadaCelular.png) !important;
     margin-top: 60px;
   }
+
+  .about-section{
+    padding-top: 4rem !important;
+  }
 }
   @media (min-width: 576px) {
   .container-sm, .container {
